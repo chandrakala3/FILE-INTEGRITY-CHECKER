@@ -70,6 +70,9 @@ The File Integrity Checker can run on **multiple platforms**, including:
 
 
 
+OUTPUT OF THE MY TASK : ![Image](https://github.com/user-attachments/assets/51e0f4f2-933f-4fa0-a3b6-cafcbf53d166)
+
+
 
 
 
